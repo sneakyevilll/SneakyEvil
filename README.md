@@ -7,7 +7,7 @@ I have bulid this menu to show how good i am in cheating THIS MENU HAS BEEN MADE
 # AMONG US (sneakyevil.dll)
 Inject With Extreme Injector
 
-(sneakyevil.dll) inject dll (DOWNDOAD HACK.ZIP)
+(sneakyevil.dll) inject dll 
 
 (Among us.exe) Open Steam to show on the process list 
 
