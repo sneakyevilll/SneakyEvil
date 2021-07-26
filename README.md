@@ -13,6 +13,13 @@ Inject With Extreme Injector
 
 ⚠ WARRNING:This Menu Can Have Curse Words About Players And Imposters 
 
+# SUPPORTED VERSIONS
+The supported windows is windows 10
+
+# UnityPlayer(UnityPlayerCrash32.dll)
+
+
+
 # SCREENSHOT
 ![Among Us Sneakyevil](https://user-images.githubusercontent.com/87953779/126917691-074916e2-7657-467b-be55-3d755ad21026.PNG)
 
